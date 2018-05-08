@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  win_memory.cpp
+c:\users\yuzi\desktop\win_memory\win_memory\win_memory.cpp(282): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  win_memory.vcxproj -> C:\Users\Yuzi\Desktop\win_memory\Debug\win_memory.exe
